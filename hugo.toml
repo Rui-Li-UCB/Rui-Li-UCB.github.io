@@ -1,0 +1,40 @@
+baseURL = "https://yourusername.github.io/"
+languageCode = "en-us"
+title = "My Portfolio"
+theme = "PaperMod"
+publishDir = "docs"
+
+enableInlineShortcodes = true
+enableRobotsTXT = true
+
+[params]
+  author = "Your Name"
+  defaultTheme = "auto"
+  showReadingTime = true
+
+[menu]
+
+  [[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 1
+
+  [[menu.main]]
+  name = "Resume"
+  url = "/resume/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 3
+
+  [[menu.main]]
+  name = "GitHub"
+  url = "/github/"
+  weight = 4
+
+  [[menu.main]]
+  name = "LetsNerdAbout"
+  url = "/letsnerdabout/"
+  weight = 5
