@@ -1,6 +1,6 @@
-baseURL = "https://yourusername.github.io/"
+baseURL = "https://rui-li-ucb.github.io/"
 languageCode = "en-us"
-title = "My Portfolio"
+title = "Rui Li"
 theme = "PaperMod"
 publishDir = "docs"
 
@@ -8,7 +8,7 @@ enableInlineShortcodes = true
 enableRobotsTXT = true
 
 [params]
-  author = "Your Name"
+  author = "Rui Li"
   defaultTheme = "auto"
   showReadingTime = true
 
