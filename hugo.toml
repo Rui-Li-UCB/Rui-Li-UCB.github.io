@@ -12,6 +12,11 @@ enableRobotsTXT = true
   defaultTheme = "auto"
   showReadingTime = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menu]
 
   [[menu.main]]
