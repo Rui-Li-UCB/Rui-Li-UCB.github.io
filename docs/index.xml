@@ -2,11 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rui Li</title>
-    <link>https://rui-li-ucb.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Rui Li</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://rui-li-ucb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Apr 2025 12:37:30 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Letsnerdabout</title>
+      <link>http://localhost:1313/letsnerdabout/</link>
+      <pubDate>Wed, 02 Apr 2025 12:37:30 -0700</pubDate>
+      <guid>http://localhost:1313/letsnerdabout/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m super into Aroid horticulture. If you’re interested in hybridizing Begonias, collecting variegated Alocasias, or if you&amp;rsquo;ve ever tasted a Monstera deliciosa fruit — let&amp;rsquo;s nerd out.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Wed, 02 Apr 2025 12:37:30 -0700</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Wed, 02 Apr 2025 12:37:30 -0700</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 02 Apr 2025 12:37:29 -0700</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi, I’m Rui. I&amp;rsquo;m a data engineer in biotech, driven by the belief that better data systems lead to faster scientific breakthroughs. I’m passionate about building scalable and reliable data infrastructure that enables researchers and analysts to focus on discovery.&lt;/p&gt;
+&lt;p&gt;I specialize in architecting pipelines that turn raw, fragmented, and complex life sciences data into clean, accessible, and interoperable data systems—aligned with industry standards and built to accelerate discovery. Whether supporting clinical studies, automating data validation, or optimizing storage and compute in the cloud, I create solutions that are technically sound and deeply aligned with scientific goals.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
